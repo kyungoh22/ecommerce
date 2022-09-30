@@ -2,7 +2,7 @@
 
 I analyse data from the new E-commerce company VS Electronics, which launched in December 2018. 
 As the name suggests, the company focuses on electronic products. 
-The goal was to analyse data collected over the period December 2018 – November 2019 to gather insights into the business and suggest KPIs for future growth. 
+The goal of this project was to analyse data collected over the period December 2018 – November 2019 to gather insights into the business and suggest KPIs for future growth. 
 
 - This project comprises three parts. 
 
