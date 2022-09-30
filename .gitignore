@@ -1,6 +1,15 @@
 csv_files
 databases
+presentation
 data.db
+ecommerce_feedback.docx
+*.docx
+*.png
+*.postgres_engine
+*.xlsx
+merged_table.csv
 ERD_diagram.pgerd
 sales_original.xlsx
 postgres_engine.ipynb
+Analysis_Ideas.docx
+merged_table
